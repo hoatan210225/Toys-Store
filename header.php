@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container-fluid">
             <img src="img/logo.png" width="50px">
-            <a href="Index.php" class="navbar-brand">Home</a>
+            <a href="index.php" class="navbar-brand">Home</a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navsupo">
                 <span class=" navbar-toggler-icon"></span>
             </button>
